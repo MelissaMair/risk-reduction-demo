@@ -1,0 +1,16 @@
+Steps for Cloning
+
+git config --global user.name "jd45664"
+git config --global user.email "josephdean98@hotmail.com"
+git clone https://github.com/jd45664/Senior-Design.git
+
+
+create a file or add something to your directory
+
+Steps for Pushing
+git remote add origin https://github.com/jd45664/Senior-Design.git
+git init
+git add .
+git push -u origin master
+git commit -m "test"
+git push origin master
