@@ -1,3 +1,4 @@
+%% Karen Kim - Edit
 %% Change the setup frequency in Matlab in a little smarter way
 % center frequency in MHz; everything will change based on this.
 frequency = 700; %MHz
